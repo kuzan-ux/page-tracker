@@ -33,3 +33,6 @@ then activate developer mode
 - navigate to the directory the repo was cloned,
 - select folder
 - click the extension icon of your chrome browser the select the extension and enjoy.
+
+# NOTE 
+The delete works by double clicking
